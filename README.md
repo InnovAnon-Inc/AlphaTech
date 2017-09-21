@@ -54,6 +54,7 @@ Finux (Heterogeneous Multi-)Cluster v2
 
 NoOSSh
 - pronounced like a cross between "whoosh" and "noose"
+- No OS Sh(ell)
 - UEFI-level shell
 - SCM interpreter/compiler
 - using PELCR backend
