@@ -77,3 +77,8 @@ MMORPG
 - bot code should be easily port-able to quadracopters or something
 - automatically generated maps, music, quests, etc:
   - see Simon
+
+HC ?
+- "hardware compiler"
+- designs circuits to run the specified app(s)
+- option to build circuits from "salvaged" parts
