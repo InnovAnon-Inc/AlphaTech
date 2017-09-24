@@ -82,3 +82,8 @@ HC ?
 - "hardware compiler"
 - designs circuits to run the specified app(s)
 - option to build circuits from "salvaged" parts
+
+PLibC
+- "Pleb See"
+- parallel libc
+- MPI + OpenCL + pthreads
