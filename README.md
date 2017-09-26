@@ -87,3 +87,14 @@ PLibC
 - "Pleb See"
 - parallel libc
 - MPI + OpenCL + pthreads
+
+Function generator
+- given definition of input and expected output,
+  generate a function which satisfies the constraints
+
+Parameter optimizer
+- given a function and definitions of its inputs,
+  and a way to compare which results are more "optimal,"
+  find values for the parameters which produce the most "optimal" result
+
+
