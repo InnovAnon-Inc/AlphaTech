@@ -97,4 +97,8 @@ Parameter optimizer
   and a way to compare which results are more "optimal,"
   find values for the parameters which produce the most "optimal" result
 
-
+Personal Terminator
+- "physical" security and virus removal
+- also a bug zapper
+- mobility-enabled (i.e., flying or rolling) or wearable
+- integrates with YellShell and SeaShell
