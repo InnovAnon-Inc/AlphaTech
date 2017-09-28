@@ -13,6 +13,8 @@ SeaShell
 - easy multi-threaded
   (not multi-process)
   stream-oriented C coding
+- dlopen() and dlclose()
+- integrate with GRELs for a good time ;)
 
 YellShell
 - speech-to-text frontend to a shell
