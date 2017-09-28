@@ -102,3 +102,8 @@ Personal Terminator
 - also a bug zapper
 - mobility-enabled (i.e., flying or rolling) or wearable
 - integrates with YellShell and SeaShell
+
+MPFP
+- massively parallel functional primitives
+- map, reduce, accumulate, filter
+- MPICC + pthreads + OpenCL + libev?
