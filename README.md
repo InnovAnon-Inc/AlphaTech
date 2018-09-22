@@ -109,3 +109,14 @@ MPFP
 - massively parallel functional primitives
 - map, reduce, accumulate, filter
 - MPICC + pthreads + OpenCL + libev?
+----------
+The Game
+- randomly generated
+- fully immersive, augmented reality, virtual reality
+- generated artwork and soundtrack
+- generated storylines
+- personality profiling
+- targeted advertising and product placement:
+  - identify user's interest and shopping needs
+  - generate map and storyline with opportunities for relevant product placement
+- game should be an AI with a fitness function which optimizes ad revenue by keeping users online and engaged
