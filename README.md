@@ -120,3 +120,6 @@ The Game
   - identify user's interest and shopping needs
   - generate map and storyline with opportunities for relevant product placement
 - game should be an AI with a fitness function which optimizes ad revenue by keeping users online and engaged
+----------
+Ad Validator
+- integrate selenium or something with web page to validate that all the ads are properly loaded and visible and not muted
