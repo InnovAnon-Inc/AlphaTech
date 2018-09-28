@@ -123,3 +123,8 @@ The Game
 ----------
 Ad Validator
 - integrate selenium or something with web page to validate that all the ads are properly loaded and visible and not muted
+----------
+JuToob
+- host content on p2p network
+- main web page has to host torrent links and maybe screenshots and other metadata
+- free and unmoderated
