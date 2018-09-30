@@ -128,3 +128,9 @@ JuToob
 - host content on p2p network
 - main web page has to host torrent links and maybe screenshots and other metadata
 - free and unmoderated
+----------
+PorkerNet
+- IP over HAM
+- FOSS hardware (e.g., raspberry pi or gumstix)
+- need to bridge to the real internet
+- - business model: charge users to use your bridge
