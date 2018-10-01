@@ -134,3 +134,11 @@ PorkerNet
 - FOSS hardware (e.g., raspberry pi or gumstix)
 - need to bridge to the real internet
 - - business model: charge users to use your bridge
+----------
+TerminatorVision
+- use a HUD, like eye-lense wearable computer
+- be able to show measurements, angles, estimated density and weight, velocity, acceleration, estimated stopping time, etc, of the environment and objects in the environment
+- be able to scan the faces of passersby, do OSINT search and display info about the people
+- uses similar technology as self-driving cars to show optimal paths when walking
+- can apply arbitrary filters and effects to specific objects in the environment. e.g., always apply camera effects to your boss's face
+- can be networked together so each person can see similar effects applied to objects in their environment, creating a shared experience in this virtual reality
