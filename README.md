@@ -142,3 +142,7 @@ TerminatorVision
 - uses similar technology as self-driving cars to show optimal paths when walking
 - can apply arbitrary filters and effects to specific objects in the environment. e.g., always apply camera effects to your boss's face
 - can be networked together so each person can see similar effects applied to objects in their environment, creating a shared experience in this virtual reality
+----------
+FortunateCookie
+- Creates entries for the Fortune database
+- Gathers statistics from various things, build models to predict events, then creates entries in the fortune database, so that your terminal fortunes will predict your day.
