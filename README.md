@@ -1,5 +1,5 @@
 # AlphaTech
-Beyond bleeding-edge technologies implemented in semi-coherent mumbles and rants
+Beyond bleeding-edge technologies implemented in semi-coherent mumbles and rants--too bleeding-edge to actually exist.
 ==========
 CInetD
 - pronounced "See Net Dee"
