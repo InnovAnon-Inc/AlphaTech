@@ -152,3 +152,10 @@ RoboBand
 - the robots are networked together and can share data while generating music
 ----------
 social media client that would extend the functionality of buffer/hootsuite. Except it would host your meta-profile (locally and also on github/bitbucket)... one profile which would be mirrored on each site.
+----------
+Project Moom: Dream Doom Server to play coop with Mom
+modify Oblige/ObAddon to replicate the trippy features of the map Impossible! A New Reality
+get Colorful Hell, LegenDoom, FractalDoom, Project Brutality and Rainbow Blood to play nicely together
+probably also switch out Doom monsters for SS guards to make it more reminiscent of '94, when we'd play Wolf3d together
+generate a fresh Hell everyday
+
