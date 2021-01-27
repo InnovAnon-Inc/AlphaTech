@@ -182,3 +182,21 @@ Project Moom: Dream Doom Server to play coop with Mom
 - probably also switch out Doom monsters for SS guards to make it more reminiscent of '94, when we'd play Wolf3d together
 - generate a fresh Hell everyday
 
+----------
+
+CryptoCurrency that pays more for low-power applications.
+
+
+----------
+
+P.o.S. System that accepts payment in goats and pays out in dollars, etc.
+
+----------
+
+DataX
+- pseudo anon browser add-on to spoof data
+- browser add-on: collect your own (real) data (i.e., visits, clicks, etc)
+- sell subsets of your data on an exchange
+
+----------
+
