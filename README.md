@@ -200,3 +200,6 @@ DataX
 
 ----------
 
+Net Neutralizer
+- automatically uses bandwidth from prioritized services to automatically enforce neutrality
+
